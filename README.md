@@ -1,5 +1,5 @@
 # ChloeDiscordBot
-A Discord bot I wrote for my Epic7 guild's Discord server.
+A Discord bot I wrote for my Epic7 (a mobile game) guild's Discord server.
 
 Features:
 - Works by parsing `$c` commands written by Discord server members followed by a character name. Checks the requested name against an Epic7 fansite to see if it returns an info page, then returns a URL directly into the chat.<br>
